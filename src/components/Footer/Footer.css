@@ -1,0 +1,27 @@
+.footer-container{
+    margin: auto;
+    max-width: 1140px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.social-icons{
+    width: 3.5rem;
+    height: 3.5rem;
+    color: white;
+    margin: 2rem;
+    cursor: pointer;
+    transition: 0.4 ease-in-out;
+
+
+  
+}
+
+.social-icons:hover{
+    width: 4rem;
+    height: 4rem;
+    cursor: pointer;
+
+
+}

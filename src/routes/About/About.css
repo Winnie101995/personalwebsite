@@ -1,0 +1,81 @@
+.aboutpage{
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    padding: 150px 15px;
+
+    width: 95%;
+    
+
+}
+
+.aboutpage h2{
+    padding: 50px;
+
+    text-align: center;
+    font-size: 3rem;
+
+}
+
+.skillstext-container{
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.skillstext-container p{
+    font-size: 1.2rem;
+    width: 50%;
+}
+
+
+.skills-container{
+    padding: 100px 15px;
+
+
+}
+
+.skills-container h2{
+    font-size: 3rem;
+    text-align: center;  
+}
+
+.skills-bx{
+    background-color:rgb(2, 10, 44);
+    border-radius: 64px;
+    text-align: center;
+    padding: 60px 50px;
+    margin-top: -60px;
+}
+
+.skills-bx h2{
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.skills-bx p{
+    font-size: 10px;
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+    margin: 14px 0 75px 0;
+}
+
+.skills-slider{
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+}
+
+
+.skills-slider h5{
+    color: ivory;
+    font-size: 1.5rem;
+}
+.skills-slider .skills-item img{
+    width: 50%;
+    margin: 0 auto 15px auto;
+
+}
